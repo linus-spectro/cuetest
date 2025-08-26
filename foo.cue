@@ -1,4 +1,4 @@
-package github.com/linus-spectro/cue-test
+package cuetest
 
 #ManagedBy: {
 	output: {
