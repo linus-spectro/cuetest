@@ -1,4 +1,4 @@
-package example
+package github.com/linus-spectro/cue-test
 
 #ManagedBy: {
 	output: {
